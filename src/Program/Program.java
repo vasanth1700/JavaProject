@@ -3,7 +3,7 @@ package Program;
 import Program.logic.Logic;
 
 
-public class FindSmallestNumber {
+public class Program {
 
 	public static void main(String[] args) {
 		
